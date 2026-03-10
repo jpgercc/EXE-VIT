@@ -1,4 +1,6 @@
 # EXE_VIT
+in the folder exercices its the content provided by the teacher,
+in the folder hands_on its my solutions to the exercices,
   <h2>Links do Sor.:</h2>
  <a href='dontpad.com/cgzs'> </a>
  <a href'https://drive.google.com/drive/folders/1r1yXUAYClB-Lzw3J9e0McVbyrQmtmyts?usp=drive_link'></a>
